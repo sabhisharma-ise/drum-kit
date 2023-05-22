@@ -9,7 +9,7 @@ To get started, you will need to clone this repository to your local machine. Yo
 
 
 ```
-git clone https://github.com/sabhisharma-ise/Drum-Kit.git
+git clone https://github.com/<your-username>/Drum-Kit.git
 ```
 
 
